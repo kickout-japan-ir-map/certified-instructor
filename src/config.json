@@ -2,8 +2,8 @@
   "title": "Geolonia PWAマップ",
   "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
+  "logo_image_url": "https://kickout-japan-ir-map.github.io/certified-instructor/IMG_4383_1.svg",
+  "background_image_url": "https://kickout-japan-ir-map.github.io/certified-instructor/IMG_4255.jpg",
   "primary_color": "#d2691e",
   "orderby": "distance"
 }
